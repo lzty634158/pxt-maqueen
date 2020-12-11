@@ -119,7 +119,7 @@ namespace maqueen {
         if (alreadyInit == 1) {
             return
         }
-        initIR(Pins.P16)
+        initIR(Pins.P8)
         alreadyInit = 1
     }
 
